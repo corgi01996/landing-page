@@ -76,3 +76,42 @@ body {
     align-items: center;
 }
 
+.middle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.middle-container header {
+    font-size: 40px;
+    font-weight: 800;
+    color: #1f2937;
+    padding: 42px 0;
+}
+
+.boxes {
+    display: flex;
+    gap: 48px;
+}
+
+.card {
+    width: 160px;
+}
+
+.middle-image {
+    border: 4px solid #3882f6;
+    border-radius: 16px;
+    height: 160px;
+    width: 160px;
+}
+
+.middle-text {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 8px;
+    color: #4b5563;
+}
+
