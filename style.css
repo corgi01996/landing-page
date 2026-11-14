@@ -115,3 +115,26 @@ body {
     color: #4b5563;
 }
 
+.quote-container {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 42px 0;
+    max-width: 600px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-size: 30px;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
