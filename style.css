@@ -183,3 +183,11 @@ body {
     font-weight: 700px;
     cursor: pointer;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 40px 0;
+    font-size: 18px;
+}
